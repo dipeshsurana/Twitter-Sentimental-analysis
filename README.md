@@ -1,2 +1,3 @@
 # firsttest
-coming soon
+
+print("Learning Github")

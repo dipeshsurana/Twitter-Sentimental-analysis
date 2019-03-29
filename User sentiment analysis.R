@@ -13,10 +13,10 @@ library("twitteR")
 library("syuzhet")
 
 # Authentication keys
-consumer_key <- 'r8CuNLJ3myW6VSDT9BwEp87Hj'
-consumer_secret <- 'FreSvL4zeBPrFlOImXt3USn5IE9o07CWKLKN0OOi3QKzymVNQi'
-access_token <- '2824646929-EyGnDFYwo2vU3nZ1oEH0ndfvYY63sORqvDFSBHc'
-access_secret <- 'imij6hwycspraDQfOQ7o2TGaGJNmxVa4NvimHmXI7uPST'
+consumer_key <- 'Getyourownkeys'
+consumer_secret <- 'Getyourownkeys'
+access_token <- 'ABCDEFGHIJKLMNO'
+access_secret <- 'ABCDEFGHIJKLMNO'
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 

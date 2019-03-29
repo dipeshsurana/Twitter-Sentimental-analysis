@@ -1,3 +1,3 @@
-# firsttest
+# Firsttest
 
-print("Learning Github")
+Learning Github
